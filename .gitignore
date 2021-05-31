@@ -1,0 +1,7 @@
+.idea/
+**/__pycache__/
+
+project/**/migrations/
+
+pgsql/
+venv/
